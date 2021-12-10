@@ -3,7 +3,6 @@
 Olá mundo!
 
 
-
  
 
 
@@ -16,6 +15,3 @@ Sou o João Reis
 
 Vamos ao café?
 Sou a Lara 
-
-
-intervalo
